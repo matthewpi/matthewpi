@@ -22,7 +22,7 @@ TLDR: Go, Linux and Kubernetes
 ![GitHub Stars](https://img.shields.io/github/stars/pterodactyl/panel)
 ![GitHub Forks](https://img.shields.io/github/forks/pterodactyl/panel)
 
-I am the lead maintainer for Pterodactyl, a free, open-source project on GitHub.  Pterodactyl is a game server management software with a system daemon written in Go and a frontend management panel written with PHP and React.
+I am the lead maintainer for Pterodactyl.  Pterodactyl is a game server management software with a system daemon written in Go and a frontend management panel written with PHP and React.
 
 ### [VSCode Caddyfile Support](https://github.com/caddyserver/vscode-caddyfile)
 
