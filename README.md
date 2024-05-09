@@ -22,7 +22,7 @@ TLDR: Go, Linux and Kubernetes
 ![GitHub Stars](https://img.shields.io/github/stars/pterodactyl/panel)
 ![GitHub Forks](https://img.shields.io/github/forks/pterodactyl/panel)
 
-I am the lead maintainer for Pterodactyl.Pterodactyl is a game server management software with a system daemon written in Go and a frontend management panel written with PHP and React.
+I am the lead maintainer for Pterodactyl. Pterodactyl is a game server management software with a system daemon written in Go and a frontend management panel written with PHP and React.
 
 ### [VSCode Caddyfile Support](https://github.com/caddyserver/vscode-caddyfile)
 
@@ -47,4 +47,4 @@ Library for directly interacting and controlling an Elgato Stream Deck on Linux.
 
 ### [Other Projects](https://github.com/matthewpi?tab=repositories)
 
-I have a large number of other open-source projects you can view [here](https://github.com/matthewpi?tab=repositories).  I also have a large number of private projects I either haven't or can't release publicly that showcase a lot more of my skillset, if you are interested in hearing about these please reach out.
+I have a large number of other open-source projects you can view [here](https://github.com/matthewpi?tab=repositories). I also have a large number of private projects I either haven't or can't release publicly that showcase a lot more of my skillset, if you are interested in hearing about these please reach out.
